@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.raiz.app",
+    "sha256_cert_fingerprints": [
+      "AB:0F:7A:CB:0C:3B:B1:74:F8:BB:98:FB:0A:8E:B6:F0:4B:F5:36:B9:C2:B8:C4:51:18:34:FD:AC:40:09:A7:13"
+    ]
+  }
+}]
